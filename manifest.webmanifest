@@ -1,0 +1,14 @@
+{
+  "name": "Mextra Mart Admin",
+  "short_name": "MM Admin",
+  "description": "Orders, products and stock for Mextra Mart.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0B1B3A",
+  "theme_color": "#0B1B3A",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
